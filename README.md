@@ -78,5 +78,8 @@ If you would like to contribute to this project, please follow these steps:
 3. Make the necessary changes and commit them
 4. Submit a pull request with a detailed description of your changes
 
+In case if the database is full, you can reach me at:
+- jtanat@connect.ust.hk
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
