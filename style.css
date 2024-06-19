@@ -57,6 +57,10 @@ button:focus {
     font-size: 25px;
 }
 
+.new-note:active {
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
 .first-note {
     cursor: pointer;
     background: linear-gradient(to bottom left, #8287b6, #606596, #363959);
